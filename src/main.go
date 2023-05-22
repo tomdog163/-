@@ -1,11 +1,7 @@
 package main
 
-import (
-	"demo01/src/day01"
-	"fmt"
-)
+import "demo01/src/day02"
 
 func main() {
-	fmt.Println("Hello, world!")
-	day01.Example18()
+	day02.Example03()
 }
