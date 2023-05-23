@@ -1,7 +1,7 @@
 package main
 
-import "demo01/src/day02"
+import "demo01/src/day03"
 
 func main() {
-	day02.Example03()
+	day03.Example01()
 }
